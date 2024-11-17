@@ -7,14 +7,19 @@ assignees: ''
 
 ---
 
-**Before Creating**
--[] This is NOT a gameplay feature
+**Before creating**
+
+-[x] This is NOT a gameplay feature
 from EASYTECH's World Conqeror 4,
 World Conqeror 3, or outside -
 see Roadmap
--[] This is Not a gameplay feature 
-from S&T,S&T2
-**Describe the solution you'd like**
+
+-[x] This is Not a gameplay feature 
+from S&T,S&T2 - if so, it should be
+a comment from #4
+**Problem Description**
+
+**Desired Solution**
 A clear and concise description of what you want to happen.
 
 **Alternative Approaches**
