@@ -1,2 +1,2 @@
 
-const val production ='⚙️'
+const val culture = '♪'
